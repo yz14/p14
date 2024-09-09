@@ -16,8 +16,8 @@
 title: yz
 description: yz
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yz14.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-repository: yz14/yz14.github.io # for github-metadata
+url: "https://yz14.github.com/p14" # the base hostname & protocol for your site, e.g. http://example.com
+repository: yz14/p14 # for github-metadata
 
 permalink: pretty
 
